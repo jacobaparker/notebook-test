@@ -82,7 +82,8 @@ __Markdown File__
 7. Open the markdown file you just copied into your topic folder and add your content while following the structure provided.
 
 __Adding to the NGG Github__
-9. Once you have created your notebook/s and uploaded your data/images/other files, commit your changes using git and create a github pull request by pushing to the NGG repository. To do this, navigate to your topic folder in the command line and input the following:
+9. Once you have created your notebook/s and uploaded your data/images/other files, copy the README template file ```README-template.md``` from the ```templates/``` folder and fill in the requested information.
+10. Once you have created the README, commit your changes using git and create a github pull request by pushing to the NGG repository. To do this, navigate to your topic folder in the command line and input the following:
 
        git add .
        git commit -m "topic name: <your-topic-name>, author: <your-name>"
