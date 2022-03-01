@@ -26,6 +26,7 @@ topic-name/
 |   notebook1.ipynb 
 |   notebook2.ipynb
 |   notebook3.ipynb
+|   py-environment.py
 |
 |___data/
 |   |   data.csv
